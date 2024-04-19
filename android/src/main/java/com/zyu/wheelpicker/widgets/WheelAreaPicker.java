@@ -10,9 +10,9 @@ import java.io.InputStream;
 import java.io.ObjectInputStream;
 import java.util.ArrayList;
 import java.util.List;
-import com.easyinvoice.wheelpicker.WheelPicker;
-import com.easyinvoice.wheelpicker.model.City;
-import com.easyinvoice.wheelpicker.model.Province;
+import com.zyu.wheelpicker.WheelPicker;
+import com.zyu.wheelpicker.model.City;
+import com.zyu.wheelpicker.model.Province;
 
 /**
  * WheelAreaPicker
