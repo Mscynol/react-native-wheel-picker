@@ -8,9 +8,9 @@ import android.graphics.Shader;
 import android.os.SystemClock;
 import android.util.AttributeSet;
 
-import com.aigestudio.wheelpicker.WheelPicker;
-import com.aigestudio.wheelpicker.WheelPicker;
-import com.aigestudio.wheelpicker.WheelPicker.OnWheelChangeListener;
+import com.zyu.wheelpicker.WheelPicker;
+import com.zyu.wheelpicker.WheelPicker;
+import com.zyu.wheelpicker.WheelPicker.OnWheelChangeListener;
 import com.facebook.react.bridge.Arguments;
 import com.facebook.react.bridge.ReactContext;
 import com.facebook.react.bridge.WritableMap;
